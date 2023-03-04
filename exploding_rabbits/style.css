@@ -1,0 +1,14 @@
+html, body {
+  background: #288C22;
+  font-family: 'PublicPixel';
+}
+
+#pixi-canvas {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+}
+
+@font-face {
+  font-family: 'PublicPixel';
+  src: url('fonts/PublicPixel-z84yD.ttf');
+}
