@@ -10,5 +10,5 @@ export function pointInPolygon(point, polygon) {
 function getBarycentricCoordinates(p, p0, p1, p2) {
 
     // Completar
-    
+
 }
